@@ -1,2 +1,3 @@
 # lang_zig
-ziglang binaries
+
+ziglang binaries sync from https://ziglang.org/download/index.json
